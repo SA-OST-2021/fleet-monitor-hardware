@@ -1,0 +1,22 @@
+Ethernet:
+W5500 - C32843 - https://datasheet.lcsc.com/lcsc/1811131221_WIZNET-W5500_C32843.pdf
+HR601680 - C172799 - https://datasheet.lcsc.com/lcsc/1810041709_HANRUN-Zhongshan-HanRun-Elec-HR601680_C172799.pdf
+7E25000E20UCG - C252264 - https://datasheet.lcsc.com/lcsc/1810170940_SJK-SHENZHEN-CRYSTAL-TECH-7E25000E20UCG_C252264.pdf
+
+CAN:
+MCP2551T-I/SN - C49558 - https://datasheet.lcsc.com/lcsc/1809192221_Microchip-Tech-MCP2551T-I-SN_C49558.pdf
+ISO7221BDR - C138522 - https://datasheet.lcsc.com/lcsc/1810181517_Texas-Instruments-ISO7221BDR_C138522.pdf
+R1SX-3.305 - https://recom-power.com/pdf/Econoline/R1SX.pdf
+
+Power Supply
+RPMB3.3-2.0 - https://d311uvhi8lkjbj.cloudfront.net/media/Datasheet/pdf/.f_GMSoRX/.t173c310db6f6fe5108a0/Datasheet-322/RPMB-2_0.pdf
+
+Accelerometer
+LIS2DH12TR - C110926 - https://datasheet.lcsc.com/lcsc/1810010329_STMicroelectronics-LIS2DH12TR_C110926.pdf
+
+MCU
+ESP32-S2-WROOM-I(4M) - C967026 - https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
+
+LED - C516144 - https://datasheet.lcsc.com/lcsc/2005080403_HONGLITRONIC-Hongli-Zhihui--HONGLITRONIC--HL-AF-3528S39FU70GH203BC-A-S1-HL_C516144.pdf
+
+IDC 5x2 1.27mm 

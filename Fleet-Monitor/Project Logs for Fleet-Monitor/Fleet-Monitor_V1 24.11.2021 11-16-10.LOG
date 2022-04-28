@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=U5-4
+Change Component Description : Designator=Q1 Old Description=SMD Crystal Resonators 25MHz 10ppm -40?~85? New Description=SMD Crystal Resonators 25MHz 10ppm -40?~85? 
+Change component parameters: Designator = "J1" ("J1"); Footprint = "THT  Jumper"; UniqueID = "\WEXNCVVT\LWFMXNXY\ZMRSCAJA" ("\WEXNCVVT\LWFMXNXY\ZMRSCAJA")
+Change component parameters (AddParameter): Name = "Component Description"; Value = "Through Hole Jumper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Value"; Value = "2-Pol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-02GB01_C390678.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "WM50016-02-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Farnell"; Value = "2668454"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC-Parts"; Value = "C358684"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser"; Value = "538-22-28-4023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4" ("P4"); Footprint = "SMD LED 0603"; UniqueID = "\VTBUJHKN\MPZNKTXR" ("\VTBUJHKN\MPZNKTXR")
+Change component parameters (AddParameter): Name = "Component Description"; Value = "General Purpose LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Value"; Value = "Green (5mA, 2.4V)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "350-2035-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Farnell"; Value = "1465991"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC-Parts"; Value = "C72043"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser"; Value = "645-598-8070-107F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price"; Value = "0.34"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U5-4

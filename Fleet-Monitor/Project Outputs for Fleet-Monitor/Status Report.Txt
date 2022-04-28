@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Fleet-Monitor.PrjPcb]
+   Generated File[Fleet-Monitor_V1.0.GTO]
+   Generated File[Fleet-Monitor_V1.0.GTP]
+   Generated File[Fleet-Monitor_V1.0.GTS]
+   Generated File[Fleet-Monitor_V1.0.GTL]
+   Generated File[Fleet-Monitor_V1.0.G1]
+   Generated File[Fleet-Monitor_V1.0.G2]
+   Generated File[Fleet-Monitor_V1.0.GBL]
+   Generated File[Fleet-Monitor_V1.0.GBS]
+   Generated File[Fleet-Monitor_V1.0.GBP]
+   Generated File[Fleet-Monitor_V1.0.GBO]
+   Generated File[Fleet-Monitor_V1.0.GM1]
+   Generated File[Fleet-Monitor_V1.0.RUL]
+   Generated File[Fleet-Monitor_V1.0.EXTREP]
+   Generated File[Fleet-Monitor_V1.0.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:40:28 On 24.11.2021
